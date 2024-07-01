@@ -1,5 +1,5 @@
-# ecommerce-app-2023
-complete mern stack ecommerce project 2023 complete code
-# Please check branches source code is video no wise 
+# shopease-e-commerce
+complete mern stack ecommerce project
+# Please check branches source code 
 ## here is project 
 
